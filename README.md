@@ -1,10 +1,9 @@
-# 👋 Hi, I'm [あなたの名前やニックネーム]
+# Profile
+KATSUTOKUといいます。<br>
+趣味でゲームやアプリ制作をしています。<br>
+WEBエンジニアを目指してポートフォリオ制作中。
 
-ここに簡単な自己紹介や、目指していることなどを1〜2行で書くと親切です！
-
-## 🛠️ My Repositories (Projects)
-クリックすると各カテゴリのリポジトリ一覧が開きます。
-
+## Repositories
 <details>
 <summary><b>🌐 HTML / CSS / JavaScript</b></summary>
 <br>
@@ -14,14 +13,14 @@
 
 </details>
 
-<details>
+<!-- details>
 <summary><b>⚛️ React</b></summary>
 <br>
 
 - [リポジトリ名1](URL) - プロジェクトの簡単な説明（例: Todoアプリ）
 - [リポジトリ名2](URL) - プロジェクトの簡単な説明（例: ECサイトのフロントエンド）
 
-</details>
+</details -->
 
 <details>
 <summary><b>🐍 Python</b></summary>
@@ -32,14 +31,14 @@
 
 </details>
 
-<details>
+<!-- details>
 <summary><b>🎮 Unity</b></summary>
 <br>
 
 - [リポジトリ名1](URL) - プロジェクトの簡単な説明（例: 2Dアクションゲーム）
 - [リポジトリ名2](URL) - プロジェクトの簡単な説明（例: 脱出ゲームのプロトタイプ）
 
-</details>
+</details -->
 
 ---
 *最終更新日: 2026年6月*
