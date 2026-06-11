@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm [あなたの名前やニックネーム]
 
-<!--
-**katsutoku/katsutoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ここに簡単な自己紹介や、目指していることなどを1〜2行で書くと親切です！
 
-Here are some ideas to get you started:
+## 🛠️ My Repositories (Projects)
+クリックすると各カテゴリのリポジトリ一覧が開きます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>🌐 HTML / CSS / JavaScript</b></summary>
+<br>
+
+- [リポジトリ名1](URL) - プロジェクトの簡単な説明（例: ポートフォリオサイト）
+- [リポジトリ名2](URL) - プロジェクトの簡単な説明（例: 模写コーディング）
+
+</details>
+
+<details>
+<summary><b>⚛️ React</b></summary>
+<br>
+
+- [リポジトリ名1](URL) - プロジェクトの簡単な説明（例: Todoアプリ）
+- [リポジトリ名2](URL) - プロジェクトの簡単な説明（例: ECサイトのフロントエンド）
+
+</details>
+
+<details>
+<summary><b>🐍 Python</b></summary>
+<br>
+
+- [リポジトリ名1](URL) - プロジェクトの簡単な説明（例: スクレイピング自動化ツール）
+- [リポジトリ名2](URL) - プロジェクトの簡単な説明（例: データ分析スクリプト）
+
+</details>
+
+<details>
+<summary><b>🎮 Unity</b></summary>
+<br>
+
+- [リポジトリ名1](URL) - プロジェクトの簡単な説明（例: 2Dアクションゲーム）
+- [リポジトリ名2](URL) - プロジェクトの簡単な説明（例: 脱出ゲームのプロトタイプ）
+
+</details>
+
+---
+*最終更新日: 2026年6月*
